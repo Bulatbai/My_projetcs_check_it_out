@@ -1,6 +1,6 @@
 
 from django.shortcuts import render
-from . models import Profiles
+
 
 def homepage(request):
  
